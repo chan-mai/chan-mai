@@ -15,5 +15,5 @@ Twitter - [@mai_llj](https://twitter.com/mai_llj)
 Discord - ﾏｲ#9825  
 Email - yashinomi@genkaishahu.com  
 ## ❯ ls -a ~/status
-![](https://github-readme-stats.vercel.app/api?username=chan-mai&count_private=true&show_icons=true&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=45,8EC5FC,E0C3FC&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chan-mai&layout=compact&title_color=FFF&text_color=FFF&bg_color=45,8EC5FC,E0C3FC&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=chan-mai&count_private=true&show_icons=true&title_color=F9779E&text_color=FA9CB8&icon_color=FFF&bg_color=FFF)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chan-mai&layout=compact&title_color=F9779E&text_color=B7B0B4&bg_color=FFF)
