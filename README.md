@@ -7,7 +7,6 @@ I do a lot of different things in different places.
 ## ❯ cat ~/about_me  
 <img src="https://github-widgetbox.vercel.app/api/profile?username=chan-mai&data=followers,repositories,stars,commits" width="600">  
   
-<img src="https://github-widgetbox.vercel.app/api/skills?names=php,python,csharp,html,css,bash,js,json,mysql,markdown&includeNames=true" width="600">  
 
   
 Lang - PHP, Python, C# etc...  
