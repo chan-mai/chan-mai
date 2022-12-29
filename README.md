@@ -1,16 +1,19 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=200&text=HELLO+WORLD%2C+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%">
+  
+I'm **Mai**.   
+I do a lot of different things in different places.  
 
-<!--
-**chan-mai/chan-mai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+## ❯ cat ~/about_me  
+<img src="https://github-widgetbox.vercel.app/api/profile?username=chan-mai&data=followers,repositories,stars,commits" width="600">  
+  
+<img src="https://github-widgetbox.vercel.app/api/skills?names=php,python,csharp,html,css,bash,js,json,mysql,markdown&includeNames=true" width="600">  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+Lang - PHP, Python, C# etc...  
+Twitter - [@mai_llj](https://twitter.com/mai_llj)  
+Discord - ﾏｲ#9825  
+Email - yashinomi@genkaishahu.com  
+## ❯ ls -a ~/status
+![](https://github-readme-stats.vercel.app/api?username=chan-mai&count_private=true&show_icons=true&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=45,8EC5FC,E0C3FC&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chan-mai&layout=compact&title_color=FFF&text_color=FFF&bg_color=45,8EC5FC,E0C3FC&hide_border=true)
